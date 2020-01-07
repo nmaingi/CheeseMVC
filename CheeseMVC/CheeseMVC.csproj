@@ -3,12 +3,4 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
-
-
-  <ItemGroup>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Views\Cheese\" />
-  </ItemGroup>
 </Project>
